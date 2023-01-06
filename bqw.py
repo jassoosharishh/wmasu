@@ -1,5 +1,5 @@
 import os,math
 if __name__=='__main__':
-  z=5/5.;y=math.log(z)
-  k=y/3
-  print(k*1)
+  z=4/8.;y=math.log(z)
+  k=y/1
+  print(k*4)
